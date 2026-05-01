@@ -1,0 +1,36 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# ARM GCC / linker outputs
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.obj
+*.d
+*.list
+*.su
+*.cyclo
+*.siz
+
+# Archives and generated dependency files
+*.a
+*.dep
+
+# STM32CubeIDE / Eclipse local metadata
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# User-local launch/debug artifacts
+*.launch
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
