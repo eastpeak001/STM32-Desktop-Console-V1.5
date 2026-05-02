@@ -15,6 +15,7 @@
 - [Hardware Debug Notes](docs/hardware_debug_notes.md)
 - [Assembly Notes](hardware/manufacturing/assembly_notes.md)
 - [LCSC Parts List](hardware/bom/lcsc_parts.md)
+- [Gerber V1.5](hardware/gerber/gerber_v1.5.zip)
 
 ## PCB Preview
 

@@ -259,3 +259,11 @@ NO COPPER
 - UART 调试口和 BT24 共用 PA9 / PA10。
 - 所有模块插入前必须确认引脚顺序。
 - 当前 V1.5 为第一版 PCB，主要目标是验证完整功能。
+
+## Gerber
+
+当前版本 Gerber 文件：
+
+- hardware/gerber/gerber_v1.5.zip
+
+该文件可用于 PCB 打样。下单前建议重新检查 Gerber 预览、板框、钻孔、丝印、顶层/底层走线和铺铜。
