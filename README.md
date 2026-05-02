@@ -8,6 +8,18 @@
 
 项目主要面向 STM32 初学者，适合作为 HAL 库、I2C、SPI、USART、ADC、GPIO、非阻塞任务调度和简单菜单系统的综合练习项目。
 
+## Hardware Documents
+
+- [Hardware Overview](hardware/README.md)
+- [Pinout](docs/pinout.md)
+- [Hardware Debug Notes](docs/hardware_debug_notes.md)
+- [Assembly Notes](hardware/manufacturing/assembly_notes.md)
+- [LCSC Parts List](hardware/bom/lcsc_parts.md)
+
+## PCB Preview
+
+![PCB Final Layout](hardware/images/pcb_final_layout.png)
+
 ## 2. 功能特点
 
 - 使用 STM32F103C8T6 最小系统板作为主控。
