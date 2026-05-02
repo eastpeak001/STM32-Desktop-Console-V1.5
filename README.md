@@ -20,6 +20,10 @@
 
 ![PCB Final Layout](hardware/images/pcb_final_layout.png)
 
+## Schematic Preview
+
+![Schematic Final](hardware/images/schematic_final.png)
+
 ## 2. 功能特点
 
 - 使用 STM32F103C8T6 最小系统板作为主控。
